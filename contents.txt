@@ -1,0 +1,20 @@
+Colors
+==========
+Green
+Blue
+White
+Red
+Blue
+
+Fruits
+=================
+Mango
+Apple
+Banana
+Oranges
+
+Fast Foods
+================
+Burger 
+Chicken Sandwich
+Cheeseburger
